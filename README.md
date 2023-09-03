@@ -1,4 +1,4 @@
-![Alt text](<HAU Computer Engineering Hub v1.png>)
+![Alt text](<assets/img/HAU Computer Engineering Hub v1.png>)
 
 Welcome to the [HAU Computer Engineering Hub](https://github.com/haucomputerengineeringhub)! This organization serves as a central platform for computer engineering students to collaborate, share code, and showcase their projects.
 s
