@@ -1,7 +1,7 @@
 ![Alt text](<assets/img/HAU Computer Engineering Hub v1.png>)
 
 Welcome to the [HAU Computer Engineering Hub](https://github.com/haucomputerengineeringhub)! This organization serves as a central platform for computer engineering students to collaborate, share code, and showcase their projects.
-s
+
 ## About us
 
 At [HAU Computer Engineering Hub](https://github.com/haucomputerengineeringhub), we are dedicated to fostering a vibrant and inclusive community of computer engineering enthusiasts. Whether you're a beginner or an experienced coder, this is the place for you. Our mission is to:
