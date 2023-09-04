@@ -30,8 +30,10 @@ We believe that practice is the best way to improve your coding skills. That's w
 
 #### How to participate?
 
-1. Go to [INSTRUCTIONS.md](INSTRUCTIONS.md) and follow the instructions.
+1. Kindly join our [Discord server](https://discord.gg/3Qq8qQJ) to get the daily coding challenge and to get the instructions on how to submit your solution and get points.
 
 ## Contact Us
 
 If you have any questions, suggestions, or just want to say hello, you can reach out [feignacio@hau.edu.ph](mailto:feignacio@hau.edu.ph). We value your feedback and are here to support your journey in computer engineering.
+
+You can also join our [Discord server](https://discord.gg/3Qq8qQJ) to connect with other members of the community.
