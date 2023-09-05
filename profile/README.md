@@ -1,10 +1,10 @@
 ![kooest_scholar_v1](<assets/img/kooest_scholar_v1.png>)
 
-Welcome to the [HAU Computer Engineering Hub](https://github.com/haucomputerengineeringhub)! This organization serves as a central platform for computer engineering students to collaborate, share code, and showcase their projects.
+Welcome to the [Kooest Scholar](https://github.com/teamkooestscholar)! This organization serves as a central platform for computer engineering students to collaborate, share code, and showcase their projects.
 
 ## About us
 
-At [HAU Computer Engineering Hub](https://github.com/haucomputerengineeringhub), we are dedicated to fostering a vibrant and inclusive community of computer engineering enthusiasts. Whether you're a beginner or an experienced coder, this is the place for you. Our mission is to:
+At [Kooest Scholar](https://github.com/teamkooestscholar), we are dedicated to fostering a vibrant and inclusive community of computer engineering enthusiasts. Whether you're a beginner or an experienced coder, this is the place for you. Our mission is to:
 
 - Facilitate collaboration among computer engineering students.
 - Encourage the sharing of knowledge and code.
