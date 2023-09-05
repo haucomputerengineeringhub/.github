@@ -1,4 +1,4 @@
-![kooest_scholar_v1](<assets/img/kooest_scholar_v1.png>)
+![kooest_scholar_v1](/assets/img/kooest_scholar_v1.png)
 
 Welcome to the [Kooest Scholar](https://github.com/teamkooestscholar)! This organization serves as a central platform for computer engineering students to collaborate, share code, and showcase their projects.
 
